@@ -21,7 +21,8 @@ void merge(int *arr, int s, int e) {
     for(int i=0; i<len2; i++) {
         second[i] = arr[mainArrayIndex++];
     }
-
+                                     
+                                
     //merge 2 sorted arrays     
     int index1 = 0;
     int index2 = 0;

@@ -22,8 +22,8 @@ void conquer(int arr[] , int s , int mid , int e) {
         else{
               arr[k++] = second[j++] ;
         }
-     }
-
+     }                 
+ 
 
      while( i < n1 ){
         arr[k++] = first[i++] ; 
